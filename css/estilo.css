@@ -16,6 +16,12 @@ body {
     text-align: center;
 }
 
+.centrar {
+    align-items: center;
+    align-self: auto;
+    text-align: center;
+}
+
 .fonnav a {
     color: white;
 }
@@ -59,5 +65,5 @@ table a {
 }
 
 .mars {
-    margin: 10px 10 px 10px 10 px;
+    margin: 0 auto;
 }
