@@ -1,0 +1,63 @@
+html {
+    scroll-behavior: smooth;
+    background-color: black;
+}
+
+body {
+    width: auto;
+}
+
+.fonnav {
+    background-color: rgb(243, 28, 28);
+}
+
+.derecha {
+    align-items: right;
+    text-align: center;
+}
+
+.fonnav a {
+    color: white;
+}
+
+.float-right {
+    scroll-behavior: smooth;
+}
+
+form label {
+    color: white;
+}
+
+.imagen1 {
+    position: absolute;
+    z-index: 1;
+}
+
+.imagen2 {
+    position: absolute;
+    z-index: 2;
+}
+
+.rent {
+    position: relative;
+    z-index: 4;
+}
+
+.buy {
+    position: relative;
+    z-index: 5;
+}
+
+.labelade {
+    position: absolute;
+    z-index: 6;
+    left: 540px;
+}
+
+table a {
+    margin: 10px 10 px 10px 10 px;
+}
+
+.mars {
+    margin: 10px 10 px 10px 10 px;
+}
