@@ -1,6 +1,7 @@
 html {
     scroll-behavior: smooth;
     background-color: black;
+    text-justify: auto;
 }
 
 body {
@@ -61,7 +62,7 @@ body {
 
 .derecha {
     align-items: right;
-    text-align: center;
+    text-align: right;
 }
 
 .centrar {
@@ -127,4 +128,25 @@ p a {
 footer {
     border-top: 1px solid rgb(100, 95, 89);
     background-color: aliceblue;
+}
+
+.colbu {
+    color: black;
+    background-color: orange;
+}
+
+.derecha a {
+    color: orange;
+}
+
+img.derecha {
+    float: right;
+}
+
+.cur span {
+    font-style: italic;
+}
+
+.neg {
+    font-weight: bold;
 }
