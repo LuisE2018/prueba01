@@ -147,6 +147,7 @@ img.derecha {
     font-style: italic;
 }
 
-.neg {
-    font-weight: bold;
+.container-b {
+    border-style: solid;
+    border-radius: 20px;
 }
