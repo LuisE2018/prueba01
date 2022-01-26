@@ -106,7 +106,7 @@ form label {
 .labelade {
     position: absolute;
     z-index: 6;
-    left: 540px;
+    left: 580px;
 }
 
 table a {
@@ -150,4 +150,10 @@ img.derecha {
 .container-b {
     border-style: solid;
     border-radius: 20px;
+}
+
+.labelade2 {
+    position: absolute;
+    z-index: 7;
+    left: 955px;
 }
